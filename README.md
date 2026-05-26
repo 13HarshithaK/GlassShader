@@ -1,6 +1,6 @@
 # Glass Shader for Unity 
 
-This project was created for the Perception of Materials in VR research study.  
+This project was created for the Perception of Materials in VR research study (uses URP).  
   1. Personal Repo Link: https://github.com/13HarshithaK/Perception-of-Materials-in-VR  
   2. CVR repo link: https://github.com/Centre-for-Vision-Research/SOM-Perception-of-Materials-in-VR  
 
