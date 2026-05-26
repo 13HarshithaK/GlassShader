@@ -55,7 +55,7 @@ Shader 5:
   4. Yes to shadows
   5. Glass object behind primary glass object disappears and isn't visible.  
 
-**Shader 7 was used for the project.**
+**Shader 7 was used for the project.**  
 In order to use this shader, copy the shdaer file and place it in your project's material's folder.
 (Pictures to be added)
 
