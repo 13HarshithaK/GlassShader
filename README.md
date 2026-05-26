@@ -29,9 +29,10 @@ Shader 2:
   4. YES!
   5. Can see other glass objects through itself but because of the high level of transparency it's a little hard to
 
-Shader 3: (other git project)  
-Has a lot of inputs, highly customizable, can also make it a textured glass surface (objects seen through it appear a little pixelated as an effect but that seems to be the intended end result)  
-  1. Some distortion is observed but if that counts as refraction remains uncertain
+Shader 3: Taken from: https://github.com/omid3098/Unity-URP-GlassShader   
+Has a lot of inputs, highly customizable, can also make it a textured glass surface (objects seen through it appear a little pixelated/diffused as an effect but that seems to be the intended end result. See the readme in the folder labeled attempt 3, or visit the link above ^)
+
+  1. Some distortion is observed but if that counts as refraction remains uncertain (original creator's note: No refraction and only distorts behind the glass.)
   2. Faintly reflects light and ground plane
   3. A little dark tint
   4. No shadows
@@ -54,7 +55,7 @@ Shader 5:
   5. Glass object behind primary glass object disappears and isn't visible.  
 
 **Shader 7 was used for the project.**
-
+In order to use this shader, copy the shdaer file and place it in your project's material's folder.
 (Pictures to be added)
 
 --------------------
