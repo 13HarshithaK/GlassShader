@@ -4,9 +4,9 @@ This project was created for the Perception of Materials in VR research study (u
   1. Personal Repo Link: https://github.com/13HarshithaK/Perception-of-Materials-in-VR  
   2. CVR repo link: https://github.com/Centre-for-Vision-Research/SOM-Perception-of-Materials-in-VR  
 
-In order to render realistic looking glass on par with other materials rendered using the AmbientCG to Unity material converter 2.0 (found here: https://discussions.unity.com/t/free-ambientcg-to-unity-material-converter-2-0-1800-free-pbr-materials/902324), a few different resources available online were utilized. Some were tutorials on YouTube and one was from another git project. A total of 4 shaders were tested and deemed less than satisfactory for the sake of this project.  
+In order to render realistic looking glass on par with other materials rendered using the AmbientCG to Unity material converter 2.0 (found here: https://discussions.unity.com/t/free-ambientcg-to-unity-material-converter-2-0-1800-free-pbr-materials/902324), a few different resources available online were utilized. Some were tutorials on YouTube and one was from another git project. A total of 5 shaders were tested and found to be insufficient in certain aspects for the sake of this project.  
 
-Using components from those 4 shaders, 2 new shaders (shaders 6 and 7) were created (one of which was finally used for the project).  
+Using components from those 5 shaders, a shader (shader 7) was created (and finally used for the project).  
 
 The factors that were considered for the glass shader include:
   1. IOR/Refraction: whether this was visible/apparent and if it could be adjusted
