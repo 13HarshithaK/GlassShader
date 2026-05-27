@@ -46,7 +46,21 @@ Shader 4:
   4. YES!
   5. Glass object behind is visible
 
-Shader 7: Improves on shader 4 but adds a white tint instead. On the backend the IOR is lessened to the actual scientific value and isn't really evident because of that (this value needs to be exaggerated a little to make the simulation a little more realistic).  
+<img width="60%" alt="glass 4" src="https://github.com/user-attachments/assets/5dd84daf-78ce-419d-a62f-bc5c349617cb" />  
+
+We can see that different glass objects are visible when placed in front of each other. We can also see how other objects are reflected on the glass objects.
+
+<img width="40%" alt="glass 4 refraction" src="https://github.com/user-attachments/assets/6fd96c4f-b011-48b5-85be-62b3277bf0ae" />  
+
+(The red cube seen through the glass sphere demonstrates the shader's refraction)
+
+Shader 7: Improves on shader 4 but adds a white tint instead. On the backend the IOR is lessened to the actual scientific value and isn't really evident because of that (this value needs to be exaggerated a little to make the simulation a little more realistic).    
+
+<img width="60%" alt="Glass 7" src="https://github.com/user-attachments/assets/4db3e096-a661-4a6c-ba24-4704ddfe53b3" />  
+
+We can see that different glass objects are visible when placed in front of each other. We can also see how other objects are reflected on the glass objects.
+
+<img width="40%" alt="Glass 7 refraction" src="https://github.com/user-attachments/assets/c26c9162-60d8-49a8-b5ad-3978573f3244" />  
 
 Shader 5:
   1. YES! Adjustable IOR!!
@@ -54,6 +68,12 @@ Shader 5:
   3. Minimal but good, can distinguish it as a present glass object in a scene and isn't too hard to spot
   4. Yes to shadows
   5. Glass object behind primary glass object disappears and isn't visible.  
+
+<img width="60%" alt="Glass 5" src="https://github.com/user-attachments/assets/409af212-d6f9-4cbe-bcbd-b7f2ad98204f" />  
+
+We can see that different glass objects are NOT visible when placed in front of each other. But we do see better/more visible refraction. 
+
+<img width="40%" alt="Glass 5 refraction" src="https://github.com/user-attachments/assets/f42bac19-8104-41c2-9a2b-0b4c165c1499" />    
 
 Shader 6: Improves on shader 5 and makes sure that the glass object behind the other glass object is visible!
 
