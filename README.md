@@ -80,8 +80,6 @@ Shader 6/5.5: Does not succeed on improving shader 5. It was created by editing 
 **Shader 7 was used for the project.**  
 In order to use this shader, copy the shader file and place it in your project's material's folder.  
 
-(Pictures to be added)
-
 --------------------
 NOTE:
 The development of the experiment and its components (including the glass shader) took place between 2022-2023 and the sources for these resources were not recorded at the time. The git project's files have remained largely untouched, including the original creator's note. Unfortunately, the other 3 shaders can't be credited at this time. If the original creators can recognize their work, they are encouraged to reach out to me so they can be credited.
