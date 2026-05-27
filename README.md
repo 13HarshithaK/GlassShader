@@ -75,7 +75,7 @@ We can see that different glass objects are NOT visible when placed in front of 
 
 <img width="40%" alt="Glass 5 refraction" src="https://github.com/user-attachments/assets/f42bac19-8104-41c2-9a2b-0b4c165c1499" />    
 
-Shader 6: Improves on shader 5 and makes sure that the glass object behind the other glass object is visible!
+Shader 6/5.5: Does not succeed on improving shader 5. It was created by editing shader 5's structure to make sure that the glass object behind the other glass object was visible. The result is a grey solid, but reflective material insted. 
 
 **Shader 7 was used for the project.**  
 In order to use this shader, copy the shader file and place it in your project's material's folder.  
