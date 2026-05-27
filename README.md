@@ -78,6 +78,12 @@ We can see that different glass objects are NOT visible when placed in front of 
 Shader 6/5.5: Does not succeed on improving shader 5. It was created by editing shader 5's structure to make sure that the glass object behind the other glass object was visible. The result is a grey solid, but reflective material insted. 
 
 **Shader 7 was used for the project.**  
+
+<img width="884" height="551" alt="target object" src="https://github.com/user-attachments/assets/f787eac8-42cc-4692-bb94-704ced02a741" />
+<br>
+<br>
+
+**Instructions:**  
 In order to use this shader, copy the shader file and place it in your project's material's folder.  
 
 --------------------
